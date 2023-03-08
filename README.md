@@ -1,4 +1,5 @@
 # Frontend Mentor - Time tracking dashboard
+# PLEASE LOOK INTO THE README-TEMPLATE FOR THE SOLUTION OF THIS CHALLENGE.
 
 ![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)
 
