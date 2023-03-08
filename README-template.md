@@ -43,8 +43,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ## Author
 
 
-- SOME FEATURES LIKE DESKTOP MEDIA QUERIES WERE NOT CREATED YET !!!
-
+- PUBLISHED https://wdyitz.github.io/TimeTracking-FrontendMentor/
+-  SOME FEATURES LIKE DESKTOP MEDIA QUERIES WERE NOT CREATED YET PLEASE USE 390px IN THE `RESPONSIVE DESIGN` TOOL TO PREVIEW THE PAGE!!!
+-  
 - Frontend Mentor - [@WDYitz](https://www.frontendmentor.io/profile/yourusername/WDYitz)
 
 
